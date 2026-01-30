@@ -5,7 +5,7 @@ I publish investment research on AI, cybersecurity, and enterprise software.
 
 ## What I'm Building
 📊 [Investment Research](https://github.com/Veritas-Research/investment-research) - Stock analysis, market frameworks  
-🛠️ [PM Frameworks/General Guides](https://github.com/VeritasPM) - Guides for product managers and general helpful tech
+🛠️ [Frameworks/General Guides](https://github.com/VeritasPlaybook) - Guides and general helpful tech/tips and AI tools
 
 ## Find Me
 💼 [LinkedIn](https://www.linkedin.com/in/malocilja/)  
