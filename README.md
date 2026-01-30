@@ -9,4 +9,4 @@ I publish investment research on AI, cybersecurity, and enterprise software.
 
 ## Find Me
 💼 [LinkedIn](https://www.linkedin.com/in/malocilja/)  
-📧 [Email](mkalocilja@gmail.com)
+📧 [Email](m@2501.one)
